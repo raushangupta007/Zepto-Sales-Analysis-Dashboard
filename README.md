@@ -6,7 +6,7 @@ This project provides actionable insights into sales trends, product demand, and
 ## 📌 Project Overview
 
 This dashboard helps businesses monitor:
-
+ 
 - Sales performance across outlet sizes and locations
 
 - Product category contribution to total revenue
